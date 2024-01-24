@@ -1,0 +1,7 @@
+Wed Jan 24 16:29:35 CET 2024
+access control disabled, clients can connect from any host
+1aa37a7ff95f39f0a227537b5ba1d0aed06166b0979aad4511a294aebe629df5
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[36m/steamdeck[00m| Port /steamdeck active at tcp://192.168.100.199:10105/
+[[01;34mINFO[00m] Yarprun successfully started on port:  /steamdeck
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[36m/steamdeck[00m| Receiving input from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[36m/steamdeck[00m| Removing input from /tmp/port/1 to /steamdeck
