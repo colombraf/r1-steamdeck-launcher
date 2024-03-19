@@ -1,1 +1,44 @@
-Wed Jan 24 14:19:04 CET 2024
+Wed Mar  6 09:21:26 CET 2024
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/yarplogger[00m| Port /yarplogger active at tcp://192.168.100.149:10008/
+Logger successfully started, listening on port /yarplogger
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-base/yarprobotinterface/4852 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-torso/yarprobotinterface/10602 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/yarprobotinterface/8422 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/yarprobotinterface/8480 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-base/ros2/5673 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-base/ros2/5748 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-base/baseControl2/5819 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/set_navigation_position.sh/8577 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Removing input from /log/console/set_navigation_position.sh/8577 to /yarplogger
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/yarprobotinterface/8708 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-base/ros2/6360 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/yarprobotinterface/8766 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/ros2/8816 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/yarprobotinterface/8966 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-base/headObstaclesScanner/6662 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/rviz2/9038 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-base/cer_gaze-controller/6950 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/yarpview/9136 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/python3/9143 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/lookForObject/9150 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/nextLocPlanner/9162 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/goAndFindIt/9174 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/yarpmotorgui/9198 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/handPointing/9583 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/cer_reaching-solver/9589 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/cer_reaching-controller/9600 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/cer_reaching-solver/9607 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/cer_reaching-controller/9610 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-torso/yarprobotinterface/10799 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/pc/yarpaudiocontrolgui/9933 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console1/yarprobotinterface/9990 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/yarprobotinterface/10046 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console1/yarprobotinterface/10076 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console1/yarprobotinterface/10129 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/r1Obr-orchestrator/10184 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/look_and_point/10295 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/faceExpressionImage5GTour/10340 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-face/yarprobotinterface/515 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/r1-face/yarprobotinterface/532 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/pc/joystickCtrl/10420 to /yarplogger using tcp
+[[01;34mINFO[00m] |[01;34myarp.os.impl.PortCoreInputUnit[00m|[33m/yarplogger[00m| Receiving input from /log/console/micActivation/10452 to /yarplogger using tcp
