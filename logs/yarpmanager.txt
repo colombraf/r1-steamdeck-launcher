@@ -1,1 +1,202 @@
-Wed Mar  6 09:21:26 CET 2024
+Wed Mar 20 10:08:56 AM CET 2024
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-torso using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-torso
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[34m/tmp/port/2[00m| Port /tmp/port/2 active at tcp://192.168.100.149:10088/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Sending output from /tmp/port/2 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Removing output from /tmp/port/2 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[34m/tmp/port/2[00m| Port /tmp/port/2 active at tcp://192.168.100.149:10088/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Sending output from /tmp/port/2 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Removing output from /tmp/port/2 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[34m/tmp/port/2[00m| Port /tmp/port/2 active at tcp://192.168.100.149:10088/
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Sending output from /tmp/port/2 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Removing output from /tmp/port/2 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[34m/tmp/port/2[00m| Port /tmp/port/2 active at tcp://192.168.100.149:10088/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Sending output from /tmp/port/2 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Removing output from /tmp/port/2 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[34m/tmp/port/2[00m| Port /tmp/port/2 active at tcp://192.168.100.149:10088/
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[32m/tmp/port/3[00m| Port /tmp/port/3 active at tcp://192.168.100.149:10110/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Sending output from /tmp/port/2 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[32m/tmp/port/3[00m| Sending output from /tmp/port/3 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Removing output from /tmp/port/2 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[32m/tmp/port/3[00m| Removing output from /tmp/port/3 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[34m/tmp/port/2[00m| Port /tmp/port/2 active at tcp://192.168.100.149:10088/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Sending output from /tmp/port/2 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[34m/tmp/port/2[00m| Removing output from /tmp/port/2 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /steamdeck
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[33m/tmp/port/1[00m| Port /tmp/port/1 active at tcp://192.168.100.149:10008/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Sending output from /tmp/port/1 to /r1-base using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[33m/tmp/port/1[00m| Removing output from /tmp/port/1 to /r1-base

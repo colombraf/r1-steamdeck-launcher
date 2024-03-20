@@ -1,1 +1,5 @@
-Fri Mar 15 10:09:13 CET 2024
+Wed Mar 20 11:11:14 AM CET 2024
+[[01;34mINFO[00m] |[01;32myarp.os.Port[00m|[32m/tmp/port/5[00m| Port /tmp/port/5 active at tcp://192.168.100.149:10112/
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[32m/tmp/port/5[00m| Sending output from /tmp/port/5 to /steamdeck using tcp
+[[01;34mINFO[00m] |[01;32myarp.os.impl.PortCoreOutputUnit[00m|[32m/tmp/port/5[00m| Removing output from /tmp/port/5 to /steamdeck
+tourCore2
